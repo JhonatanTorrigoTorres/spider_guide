@@ -12,7 +12,6 @@
 .cor_fonte{
     color: darkred;
 }
-.card_personalizado{
-    border: darkred 2px solid;
-    border-radius: 5px;
+.largura{
+    max-width: 400px;
 }
