@@ -9,3 +9,10 @@
 .navbar-light{
     background-color: rgb(80, 0, 16);
 }
+.cor_fonte{
+    color: darkred;
+}
+.card_personalizado{
+    border: darkred 2px solid;
+    border-radius: 5px;
+}
