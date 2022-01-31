@@ -12,6 +12,12 @@
 .cor_fonte{
     color: darkred;
 }
-.largura{
-    max-width: 400px;
+.dimensão_card{
+    width: 400px;
+    height: 650px;
+    border: darkred 3px solid;
+    border-radius: 5px;
+}
+.posicao_imagem{
+    object-fit: cover;
 }
