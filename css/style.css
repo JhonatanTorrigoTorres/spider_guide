@@ -1,5 +1,11 @@
 .imagem{
     object-fit: cover;
-    height: 500px;
+    max-height: 600px;
     object-position: 0% 40%;
+}
+.fonte_fantasia{
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+.navbar-light{
+    background-color: rgb(80, 0, 16);
 }
