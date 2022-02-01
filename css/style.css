@@ -13,8 +13,8 @@
     color: darkred;
 }
 .dimensão_card{
-    width: 400px;
-    height: 650px;
+    width: 18rem;
+    max-height: 650px;
     border: darkred 3px solid;
     border-radius: 5px;
 }
