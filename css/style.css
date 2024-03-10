@@ -1,26 +1,46 @@
-.imagem{
+.imagem {
     object-fit: cover;
     max-height: 600px;
     object-position: 0% 40%;
 }
-.fonte_fantasia{
+
+.fonte_fantasia {
     font-family: 'Mochiy Pop P One', sans-serif;
 }
-.cor_fonte{
+
+.cor_fonte {
     color: darkred;
 }
-.background{
+
+.background {
     background-color: rgb(80, 0, 16);
 }
-.dimensão_card{
+
+.dimensão_card {
     max-width: 400px !important;
     max-height: 650px;
     border: rgb(9, 0, 139) 3px solid;
     border-radius: 5px;
 }
-.posicao_imagem{
+
+.posicao_imagem {
     object-fit: cover;
 }
-.container-fluid{
+
+.container-fluid {
     background-image: linear-gradient(to bottom right, red, rgb(0, 68, 255));
+}
+
+.carousel-caption {
+    bottom: auto !important;
+}
+
+.active {
+    display: flex !important;
+    align-items: center !important;
+}
+
+h1 {
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
 }
